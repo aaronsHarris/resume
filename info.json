@@ -1,0 +1,22 @@
+
+{
+  "name": "Aaron Harris",
+  "website": "https://www.github.com/aaronsharris",
+  "linkedin": "https://www.linkedin.com/in/aaron-harris-577867218",
+  "github": "aaronsHarris",
+  "email": "aaronsharris@gmail.com",
+  "resume": "https://www.github.com/aaronsharris",
+  "proficientTechnologies": [
+      "Javascript",
+      "React",
+      "Node",
+      "Express",
+      "Mongodb",
+      "PostgreSQL"
+  ],
+  "otherSkills": [
+      "cooking",
+      "operations management",
+      "terrible jokes"
+  ]
+}
